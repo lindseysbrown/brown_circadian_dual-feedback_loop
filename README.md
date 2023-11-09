@@ -2,7 +2,7 @@
 
 This repository contains the code for the Brown and Doyle dual-feedback loop model of the molecular circadian oscillator and the initial model predictive control simulations using the model for multi-input control.
 
-The model is written in Python 2.7 and integrated using CasADi.
+The model is written in Python 2.7 and integrated using CasADi (2.3.0).
 
 A description of each of the main files is given below:
 * model.py: the set of differential equations and parameters for the model, including a sample of how the phase and amplitude response curves are calculated
